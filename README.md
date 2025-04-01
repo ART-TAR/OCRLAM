@@ -19,6 +19,7 @@ https://pytorch.org/get-started/locally/
 - pip install git+https://github.com/huggingface/transformers accelerate
 - pip install qwen-vl-utils==0.0.8 
 - pip install huggingface_hub
+- pip install bitsandbytes
 
 ### Вариант 2. (в conda)
 
